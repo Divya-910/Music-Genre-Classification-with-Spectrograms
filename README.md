@@ -29,17 +29,6 @@ TensorFlow
 Keras
 NumPy
 Matplotlib
-Usage Instructions
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/music-genre-classification.git
-Install the requisite dependencies:
-Copy code
-pip install -r requirements.txt
-Execute the scripts for model training and evaluation.
-
-
 
 
 
